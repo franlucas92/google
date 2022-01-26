@@ -109,6 +109,7 @@ html{
     align-items: center;
     flex-direction: column;
     min-width: 45rem;
+    min-height: 500px;
 }
 
 .section-article-logo{
